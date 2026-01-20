@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Josh
 
-**Software Engineer at [Nextcoin](https://nextcoin.com.au/)**  
+**Software Engineer at [Ladder](https://ladder.inc/)**  
 Interested in algorithms, data structures, low-level systems, backend engineering, and operating systems
 
 ---
